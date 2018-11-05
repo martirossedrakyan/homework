@@ -1,3 +1,7 @@
 Now in branch a
 
+<<<<<<< HEAD
 FInal update in a
+=======
+Already in branch b
+>>>>>>> b

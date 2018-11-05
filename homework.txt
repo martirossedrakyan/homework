@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Now in Master
 
 Master updated
+=======
+Now in branch a
+
+<<<<<<< HEAD
+FInal update in a
+=======
+Already in branch b
+>>>>>>> b
+>>>>>>> a
